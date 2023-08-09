@@ -124,4 +124,6 @@ Feel free to make a pull request to add your own!
 
 ## License
 
-fend is MIT-licensed. See [LICENSE.md](LICENSE.md) for more information.
+fend is [MIT-licensed](LICENSE.md), except for fend-gemini.
+
+fend-gemini is available under AGPL-3.0-or-later.

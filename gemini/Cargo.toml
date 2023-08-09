@@ -7,7 +7,7 @@ repository.workspace = true
 homepage.workspace = true
 keywords.workspace = true
 categories.workspace = true
-license.workspace = true
+license = "AGPL-3.0-or-later"
 
 [dependencies]
 ees = "1.0.0"
